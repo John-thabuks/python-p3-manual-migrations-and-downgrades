@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/thabuks/Development/code/phases_3/python-p3-manual-migrations-and-downgrades/lib/migrations_test.db"
+  }
+]
